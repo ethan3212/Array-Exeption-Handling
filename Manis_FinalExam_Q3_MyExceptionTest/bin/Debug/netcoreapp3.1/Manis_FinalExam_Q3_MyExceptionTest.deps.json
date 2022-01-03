@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Manis_FinalExam_Q3_MyExceptionTest/1.0.0": {
+        "runtime": {
+          "Manis_FinalExam_Q3_MyExceptionTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manis_FinalExam_Q3_MyExceptionTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

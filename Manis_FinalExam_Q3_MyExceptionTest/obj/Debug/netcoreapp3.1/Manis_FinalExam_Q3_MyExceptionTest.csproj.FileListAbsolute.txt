@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\bin\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.exe
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\bin\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.deps.json
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\bin\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.runtimeconfig.json
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\bin\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\bin\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.dll
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\bin\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.pdb
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.dll
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.pdb
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Manis_FinalExam_Q3_MyExceptionTest\obj\Debug\netcoreapp3.1\Manis_FinalExam_Q3_MyExceptionTest.GeneratedMSBuildEditorConfig.editorconfig
